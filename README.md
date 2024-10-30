@@ -1,2 +1,2 @@
-<h3> ~ Text-Based Game ~ </h3>
+# ~ Text-Based Game ~ 
 ## ~ Auf Dem Ost-Wind ~
