@@ -8,7 +8,11 @@
 ✨- O a ideia do jogo surgiu porque eu sempre gostei de temas de fantásia como Dungeons and Dragons ou Lord of the Rings e de estratégia militar, portanto decidi juntar os dois num só jogo.
 
 <h3> ~ Qual é a historia do Auf Dem Ost-Wind? ~ </h3>
-✨- A Historia do jogo baseia-se num mundo alternativo na era do renascimento. Neste mundo o continente em que te encontras encontra-se mais uma vez em guerra. Esta guerra, nomeada de "Dritter KaiserKrieg" trava-se entre dois reinos poderosos, o Sacro Imperio de Varhüt a Grã União Jøhl Do Sul-Karbenhäl, que estão a lutar pela croa destes dois reinos e tu, sob a Sacra-Bandeira de Varhüt, tens o objetivo de abrir caminho por uma floresta prigosa.
+✨- A Historia do jogo baseia-se num mundo alternativo na era do renascimento. Neste mundo o continente em que te encontras encontra-se mais uma vez em guerra. Esta guerra, nomeada de "Dritter KaiserKrieg" trava-se entre dois reinos poderosos, o Sacro Imperio de Varhüt a Grã União Jøhl Do Sul-Karbenhäl, que estão a lutar pela croa destes dois reinos e tu, sob a Sacra-Bandeira de Varhüt, tens o objetivo de abrir caminho por uma floresta prigosa. O jogador ira ter que fazer o melhor caminho possivel para atravesar a floresta e criar uma passagem segura para as forças vartianas.
+
+<h3> ~ Qual é a historia do Auf Dem Ost-Wind? ~ </h3>
+
+
 
 
 
