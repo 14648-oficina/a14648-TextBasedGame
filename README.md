@@ -10,7 +10,8 @@
 <h3> ~ Qual é a historia do Auf Dem Ost-Wind? ~ </h3>
 ✨- A Historia do jogo baseia-se num mundo alternativo na era do renascimento. Neste mundo o continente em que te encontras encontra-se mais uma vez em guerra. Esta guerra, nomeada de "Dritter KaiserKrieg" trava-se entre dois reinos poderosos, o Sacro Imperio de Varhüt a Grã União Jøhl Do Sul-Karbenhäl, que estão a lutar pela croa destes dois reinos e tu, sob a Sacra-Bandeira de Varhüt, tens o objetivo de abrir caminho por uma floresta prigosa. O jogador ira ter que fazer o melhor caminho possivel para atravesar a floresta e criar uma passagem segura para as forças vartianas.
 
-<h3> ~ Qual é a historia do Auf Dem Ost-Wind? ~ </h3>
+<h3> ~ Quais são funcionalidades do jogo? ~ </h3>
+✨- O jogo tem um sistema de seleção de arma principal e de seleção de companhia; um sistema de combate baseado na realidade; cada arma tendo um efeito difrente em inimigos com e sem armadura; sistema de compra e de inventário.
 
 
 
