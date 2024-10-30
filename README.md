@@ -13,7 +13,15 @@
 <h3> ~ Quais são funcionalidades do jogo? ~ </h3>
 ✨- O jogo tem um sistema de seleção de arma principal e de seleção de companhia; um sistema de combate baseado na realidade; cada arma tendo um efeito difrente em inimigos com e sem armadura; sistema de compra e de inventário.
 
+<h3> ~ O Código ~ </h3>
+✨- O Codigo do jogo é admitidamente, muito confuso, utilizando muitos ifs e variaveis, e poucas functions e loops. Os ifs foram maioriariamente utilizados para duas coisas, as decições e para os stats relativos a combate (como dano dado, dano recebido, os enimigos,etc) as listas tambem são utilizadas para o inventario do jogador, que consiste de mantimentos e medicina. Neste jogo o jogador é dada a liberdade para fazer muita coisa, como a companhia que quer escolher, o armamento do jogador, se quer comprar algo ou não e os caminhos que quer seguir.
+
+<h3> ~ Desafios no Código ~ </h3>
+✨- Eu encontrei muitos desafios no código durante o desinvolvimento deste jogo, como por exemplo a maneira de escolher o esquadrão, que era muito mais detalhada em versões antriores mas teve que ser altamente simplificado para o funcionamento do jogo. Outra dificuldade que tive foi na implementação do sistema de vida, que era susposto utilizar funções, mas devido a não ter dado a resposta desejada, teve que ser trocado.
 
 
+<h3> ~ A Conclusão ~ </h3>
+✨- Este jogo é bastante basico e muito simples, este jogo tambem não correu como originalmente pertendia pois tive de simplificar varias coisas durante o desinvolvimento do jogo.
+Apesar disto, este jogo é só o começo do que planeio fazer durante o meu percuso, e serve como uma lição para não ser muito ambicioso.
 
 
